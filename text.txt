@@ -118,7 +118,7 @@
 <body>
 
 <div class="card">
-  <h1>Hey Love ❤️</h1>
+  <h1>Herro my sweet love ❤️‍🔥</h1>
 
   <p>
     Even with miles between us,<br>
@@ -133,18 +133,18 @@
 
   <div class="distance" id="distance"></div>
 
-  <p><strong>Will you be my Valentine? 💖</strong></p>
+  <p><strong>Will you please be my cutie widdo valentine? 💖</strong></p>
 
   <div class="buttons">
-    <button id="yesBtn">YES 💕</button>
-    <button id="noBtn">NO 🙃</button>
+    <button id="yesBtn"> absolutely i do!❤️‍🔥</button>
+    <button id="noBtn">NO isss dont be liking dee ☹️</button>.  
   </div>
 
   <div id="finalMessage" class="hidden">
     <p class="final">
       YAY!!! 💘💘💘<br><br>
       No distance could ever stop us.<br>
-      I choose you — today and always ❤️
+      I choose you — today and always ❤️ to the moon and back🌙
     </p>
   </div>
 </div>
